@@ -12,7 +12,7 @@
 
 - [Free Website](#Free-Website)
 - [SEO & Website Analyzer](#SEO-&-Website-Analyzer)
-- []()
+- [Free Icons](#Free-Icons)
 - []()
 - []()
 - []()
@@ -91,10 +91,27 @@
 
 
 
+### Free-Icons
 
 
-
-
+- [fontello](http://fontello.com/) - Icon fonts generator.
+- [flaticon](http://www.flaticon.com/) - A search engine for 16000+ glyph vector icons.
+- [google design](https://github.com/google/material-design-icons/releases/tag/1.0.0) - 750 Free open-source glyphs by Google.
+- [fortawesome](https://fortawesome.github.io/Font-Awesome/) - The iconic font and CSS toolkit.
+- [glyphsearch](http://glyphsearch.com/) - Search for icons from other icon databases.
+- [makeappicon](http://makeappicon.com/) - Generate App Icons of all sizes with a click.
+- [endlessicons](http://www.endlessicons.com/) -  Free flat icons and creative stuff.
+- [icomoon](https://icomoon.io/) - 4000+ free vector icons, icon generator.
+- [thenounproject](https://thenounproject.com/) - Thousands of glyph icons from different artists.
+- [perfecticons](http://perfecticons.com/) - A social icon creation tool.
+- [iconfinder](https://www.iconfinder.com/free_icons) - Free icon section of the website.
+- [roundicons.](http://roundicons.com/doodle-icons-free-set/) - Free Round Icons:
+- [iconsweets](http://iconsweets.com/) - 60 free vector Photoshop icons.
+- [makeappicon](http://makeappicon.com/) - Generate App Icons of ALL sizes with a click.
+- [appicontemplate](http://appicontemplate.com/) - Royalty free app icon creator for iOS, OS X and Android.
+- [iconeden](http://www.iconeden.com/smarticons/index.html) -  Download 1450 premium icons for free.
+- [toicon](http://www.toicon.com/) - Free icons.
+- [ego-icons](http://ego-icons.com/) - 100 Free vector icons with a clean look and feel.
 
 
 
