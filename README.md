@@ -13,7 +13,7 @@
 - [Free Website](#Free-Website)
 - [SEO & Website Analyzer](#SEO-&-Website-Analyzer)
 - [Free Icons](#Free-Icons)
-- []()
+- [Find Trending Contents](#Find-Trending-Contents)
 - []()
 - []()
 - []()
@@ -118,6 +118,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+### Find-Trending-Contents
+
+
+- [portent](http://www.portent.com/tools/title-maker) - Content idea generator.
+- [google trend](https://www.google.com/trends/hottrends/visualize?pn=p1) - A new way of displaying trending searches.
+- [buzzsumo](http://buzzsumo.com/) - Analyze what content performs best for any topic or competitor.
+- [hubspot](https://www.hubspot.com/blog-topic-generator) - Custom blog ideas.
+- [swayy](http://www.swayy.co/) - Discover the most engaging content. Free for 1 dashboard user.
+- [google plus](https://plus.google.com/explore/_) - plus google 
+- [twitter trends](https://twitter.com/trends) - twitter trends
+- [quora](https://www.quora.com/Content-Strategy) - quora content strategy
+- [reddit](https://www.reddit.com/) - reddit media
+- [ruzzit](http://www.ruzzit.com/) - Find the most shared content on the web.
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
