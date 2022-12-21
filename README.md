@@ -14,7 +14,7 @@
 - [SEO & Website Analyzer](#SEO-&-Website-Analyzer)
 - [Free Icons](#Free-Icons)
 - [Find Trending Contents](#Find-Trending-Contents)
-- []()
+- [Free Design Resources](#Free-Design-Resources)
 - []()
 - []()
 - []()
@@ -148,6 +148,45 @@
 - []()
 - []()
 - []()
+
+
+
+
+
+
+
+
+
+### Free-Design-Resources
+
+- [freebbble](http://freebbble.com/) - High-quality design freebies from Dribbble.
+- [dribbble](https://dribbble.com/search?q=freebie) - Dribbble search results for “freebie”. An absolute freebie treasure.
+- [graphicburger](http://graphicburger.com/) - Tasty design resources made with care for each pixel.
+- [pixelbuddha](http://pixelbuddha.net/) - Free and premium resources for professional community.
+- [premiumpixels](http://www.premiumpixels.com/) -  Free Stuff for Creative Folk.
+- [fribbble](http://fribbble.com/) - Free PSD resources by Dribbblers curated by Gilbert Pellegrom.
+- [freebiesbug](http://freebiesbug.com/) - Latest free PSDs & other resources for designers.
+- [365psd](http://365psd.com/) - Download a free psd every day.
+- [dbfreebies](http://dbfreebies.co/) - Dribbble & Behance best design freebies.
+- [marvelapp](https://marvelapp.com/resources/) - Free resources from designers we love.
+- [uispace](http://uispace.net/) - High quality hand-crafted Freebies for awesome people.
+- [pixeden](http://www.pixeden.com/free-design-web-resources) - Free design resources.
+- [creativemarket](https://creativemarket.com/free-goods) - Freebies coming out every Monday.
+- [teehanlax](http://www.teehanlax.com/tools/iphone/) - iOS 8 GUI PSD (iPhone 6).
+- [teehanlax](http://www.teehanlax.com/tools/ipad/) - iPad GUI PSD.
+- [freepik](http://www.freepik.com/) - iFree graphic resources for everyone.
+- [techandall](http://www.techandall.com/) - PSD, Tech News, and other resources for free.
+- [invisionapp](http://www.invisionapp.com/tethr) - The most beautiful IOS design KIT ever.
+- [web3canvas](http://web3canvas.com/) - PSD Freebies, HTML Snippets, Inspirations & Tutorials.
+- [sketchappsources](http://www.sketchappsources.com/) - Free graphical resources.
+- [freebies.placeit](http://freebies.placeit.net/) - Freebies delivered right to your Dropbox.
+
+
+
+
+
+
+
 
 
 
